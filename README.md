@@ -1,4 +1,3 @@
-```markdown
 # 🐳 Docker CLI Шпаргалка (без Docker Desktop)
 
 **Полный flow работы с Docker в Ubuntu (и других Linux-дистрибутивах) через CLI.**
@@ -41,7 +40,7 @@ sudo apt install -y docker-ce docker-ce-cli containerd.io
 
 # Проверяем установку
 sudo docker run hello-world
-```
+
 
 ### 1.2. Добавление пользователя в группу `docker`
 ```bash
